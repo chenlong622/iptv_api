@@ -29,19 +29,19 @@
 > 声明: 所有播放源均收集于互联网，仅供测试研究学习，`不得商用!`
 
 ## 订阅链接:        
-> [IPV4直播加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u)
+> [IPV4直播加速URL1](https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u)
 > 
 >[IPV4直播加速CDN](https://cdn.jsdelivr.net/gh/alantang1977/iptv_api@master/output/live_ipv4.m3u)
 > 
-> [IPV4直播加速URL2](https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u)
+> [IPV4直播加速URL2](https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u)
 > 
-> [IPV6直播加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv6.m3u)
+> [IPV6直播加速URL1](https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv6.m3u)
 > 
-> [IPV6直播加速URL2](https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv6.m3u)
+> [IPV6直播加速URL2](https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv6.m3u)
 >
-> [节目单加速URL1](https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/epg.xml)
+> [节目单加速URL1](https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/epg.xml)
 > 
-> [节目单加速URL2](https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/epg.xml)
+> [节目单加速URL2](https://gh.catmak.name/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/epg.xml)
 
 ## IPV6优势
 1. 更低的延迟: IPv6协议在一些方面能提供更低的延迟，这对于实时视频流的播放体验很重要，可以减少视频缓冲和加载时间。
