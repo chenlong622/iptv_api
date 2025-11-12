@@ -12,7 +12,7 @@ source_urls = [
     "https://115.190.105.236/vip/vip.m3u",
     "https://live.catvod.com/mq.php?catvod.com=m3u",
     "http://is.is-great.org/i/9892017.txt",
-    "https://mm.qiuye.us.kg/6.txt",
+    "https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt",
     "http://gg.7749.org//i/ds.txt",
     "https://is.is-great.org/i/9892017.txt",
     "http://vhr.dpdns.org:8080/4gtv.php",
