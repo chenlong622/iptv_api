@@ -5,7 +5,7 @@ ip_version_priority = "ipv4"
 
 # 直播源URL列表
 source_urls = [
-    "https://cnb.cool/junchao.tang/live/-/git/raw/main/%E5%85%A8%E7%90%83%E9%80%9A.py",
+    "https://cnb.cool/junchao.tang/live/-/git/raw/main/全球通.py",
     "http://kds.shanxixr.com/migu01.txt",
     "http://is.is-great.org/i/0885557.txt",
     "https://115.190.105.236/vip/qwt.m3u",
@@ -14,7 +14,8 @@ source_urls = [
     "http://is.is-great.org/i/9892017.txt",
     "https://mm.qiuye.us.kg/6.txt",
     "http://gg.7749.org//i/ds.txt",
-    "https://is.is-great.org/i/9892017.txt?i=1",
+    "https://is.is-great.org/i/9892017.txt",
+    "http://vhr.dpdns.org:8080/4gtv.php",
     "http://go8.myartsonline.com/zx/0/TVBTV28.txt",
     "http://kkk.888.3116598.xyz/user/HKTV.txt",
     "http://gg.7749.org/z/i/gdss.txt",
