@@ -17,7 +17,6 @@ source_urls = [
     "https://gitee.com/buzhenglin2025/tv/raw/master/HKTV.m3u",
     "https://cloud.7so.top/f/xv80ux/天浪.txt",
     "https://cloud.7so.top/f/yr7BHL/HKTV.txt",
-    "https://cloud.7so.top/f/zKQJt4/txtHKTV.txt",
     "https://gitee.com/main-stream/tv/raw/master/BOSS.json",
     "https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt",
     "http://gg.7749.org//i/ds.txt",
