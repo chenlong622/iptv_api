@@ -13,7 +13,7 @@ source_urls = [
     "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u",
     "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容",
     "https://cloud.7so.top/f/YvnzcA/收费港台高清.txt",
-    "http://is.is-great.org/i/0885557.txt",
+    "http://iptv.cqshushu.com/jiekou.php?jk=txt&token=a438a27a9ab11996f4a8f848146f2733",
     "https://115.190.105.236/vip/qwt.m3u",
     "https://115.190.105.236/vip/vip.m3u",
     "https://live.catvod.com/mq.php?catvod.com=m3u",
