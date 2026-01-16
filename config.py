@@ -24,7 +24,7 @@ source_urls = [
     "https://gitee.com/main-stream/tv/raw/master/BOSS.json",
     "https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt",
     "http://gg.7749.org//i/ds.txt",
-    "https://is.is-great.org/i/9892017.txt",
+    "https://gitee.com/alexkw/app/raw/master/kgk.txt",
     "https://d.kstore.dev/download/15114/HKTV.txt",
     "http://go8.myartsonline.com/zx/0/TVBTV28.txt",
     "http://kkk.888.3116598.xyz/user/HKTV.txt",
