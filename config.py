@@ -5,8 +5,8 @@ ip_version_priority = "ipv4"
 
 # 直播源URL列表
 source_urls = [
-    "https://zb.pl10000.top/list.txt",
-    "https://bc.188766.xyz/?url=https://live.iill.top&mishitong=true&mima=mianfeibuhuaqian",
+    "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+    "https://bc.188766.xyz/?url=https://live.juntv.top&mima=bingcha1130",
     "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
     "https://itv.aptv.app/china-iptv/zgyd.m3u",
@@ -41,7 +41,7 @@ source_urls = [
     "https://www.iyouhun.com/tv/myIPTV/ipv4.m3u",
     "http://live.nctv.top/x.txt",   
     "https://live.izbds.com/tv/iptv4.txt",
-    "http://47.120.41.246:8899/zb.txt",
+    "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main//iptvpro.txt",
     "http://rihou.cc:555/gggg.nzk",
     "http://1.94.31.214/live/livelite.txt",
     "http://api.mytv666.top/lives/free.php?type=txt",
