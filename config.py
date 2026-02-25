@@ -6,7 +6,7 @@ ip_version_priority = "ipv4"
 # 直播源URL列表
 source_urls = [
     "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
-    "https://bc.188766.xyz/?url=https://live.juntv.top&mima=bingcha1130",
+    "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
     "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
     "https://itv.aptv.app/china-iptv/zgyd.m3u",
