@@ -41,7 +41,7 @@ source_urls = [
     "https://www.iyouhun.com/tv/myIPTV/ipv4.m3u",
     "http://live.nctv.top/x.txt",   
     "https://live.izbds.com/tv/iptv4.txt",
-    "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main//iptvpro.txt",
+    "https://l.gmbbk.com/upload/39183918.txt",
     "http://rihou.cc:555/gggg.nzk",
     "http://1.94.31.214/live/livelite.txt",
     "http://api.mytv666.top/lives/free.php?type=txt",
