@@ -13,7 +13,7 @@ source_urls = [
     "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u",
     "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容",
     "https://d.kstore.dev/download/15114/gztv.txt",    
-    "http://iptv.cqshushu.com/jiekou.php?jk=txt&token=a438a27a9ab11996f4a8f848146f2733",
+    "https://timetv.junchao.qzz.io",
     "https://115.190.105.236/vip/qwt.m3u",
     "https://115.190.105.236/vip/vip.m3u",
     "https://live.catvod.com/mq.php?catvod.com=m3u",
