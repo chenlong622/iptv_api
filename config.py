@@ -51,7 +51,7 @@ source_urls = [
     "https://web.banye.tech:7777/tv/hlj.txt",
     "https://iptv.catvod.com/tv.m3u",
     "https://live.zbds.top/tv/iptv4.txt",
-    "https://gitee.com/xxy002/zhiboyuan/raw/master/dsy",
+    "",
 
 
 ]
