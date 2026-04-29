@@ -9,7 +9,7 @@ source_urls = [
     "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
     "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
-    "",
+    "https://tv.anbox.ip-ddns.com/live",
     "https://raw.githubusercontent.com/mymsnn/DailyIPTV/main/outputs/full_validated.m3u",
     "https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆无18内容",
     "https://d.kstore.dev/download/15114/gztv.txt",    
