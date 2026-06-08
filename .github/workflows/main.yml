@@ -7,40 +7,45 @@ on:
 
 jobs:
   run_script:
-    runs-on: ubuntu-latest  # 使用最新的Ubuntu运行器
+    runs-on: ubuntu-latest
+
+    # 强制所有 JavaScript Actions 使用 Node.js 24 运行（规避 Node 20 弃用问题）
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+      TZ: Asia/Shanghai  # 设置时区为上海
 
     steps:
-    - name: Checkout repository  # 检出代码库
-      uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v4   # 升级到 v4（仍基于 Node 20，但配合环境变量可使用 Node 24）
 
-    - name: Set up Python  # 设置Python环境
-      uses: actions/setup-python@v4
+    - name: Set up Python
+      uses: actions/setup-python@v5   # 升级到 v5
       with:
-        python-version: '3.10'  # 使用Python 3.10
+        python-version: '3.10'
 
-    - name: Cache dependencies  # 缓存pip依赖项
-      uses: actions/cache@v4
+    - name: Cache dependencies
+      uses: actions/cache@v4   # 保持 v4
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
 
-    - name: Install system dependencies  # 安装系统依赖
+    - name: Install system dependencies
       run: |
         sudo apt-get update
         sudo apt-get install -y ffmpeg
 
-    - name: Install Python dependencies  # 安装Python依赖
+    - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
         pip install requests aiohttp
 
-    - name: Run Python script  # 执行主脚本
+    - name: Run Python script
       run: |
         python main.py
 
-    - name: Commit and push if changed  # 如果有更改，则提交并推送
+    - name: Commit and push if changed
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
@@ -50,6 +55,3 @@ jobs:
           git pull --rebase
           git push
         fi
-
-    env:
-      TZ: Asia/Shanghai  # 设置时区为上海
