@@ -48,7 +48,7 @@ source_urls = [
     "",
     "",
     "",
-    "https://iptv.catvod.com/tv.m3u",
+    "",
     "https://live.zbds.top/tv/iptv4.txt",
     "",
 
