@@ -22,7 +22,7 @@ source_urls = [
     "https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/shenqu.txt"
     "https://gitee.com/main-stream/tv/raw/master/BOSS.json",
     "https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt",
-    "",
+    "https://raw.githubusercontent.com/ajqubbs/zhiboyuan/refs/heads/main/gatzb.txt",
     "https://gitee.com/alexkw/app/raw/master/kgk.txt",
     "https://d.kstore.dev/download/15114/HKTV.txt",
     "",
