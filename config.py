@@ -5,7 +5,7 @@ ip_version_priority = "ipv4"
 
 # 直播源URL列表
 source_urls = [
-    "",
+    "https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u",
     "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
     "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
     "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
@@ -33,8 +33,8 @@ source_urls = [
     "https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/结果.m3u",
     "https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/网络收集.txt",
     "",
-    "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
-    "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/gqds+.txt",
+    "",
+    "",
     "https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt",
     "https://www.iyouhun.com/tv/myIPTV/ipv6.m3u",
     "https://www.iyouhun.com/tv/myIPTV/ipv4.m3u",
