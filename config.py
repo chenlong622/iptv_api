@@ -19,7 +19,7 @@ source_urls = [
     "https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt",
     "https://raw.githubusercontent.com/alantang1977/iptv8/refs/heads/main/bbxx_lite.m3u",
     "https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/wangzizb.txt",
-    "https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/shenqu.txt"
+    "https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/shenqu.txt",
     "https://gitee.com/main-stream/tv/raw/master/BOSS.json",
     "https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt",
     "https://raw.githubusercontent.com/ajqubbs/zhiboyuan/refs/heads/main/gatzb.txt",
