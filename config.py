@@ -9,7 +9,7 @@ source_urls = [
 "https://live.zbds.org/tv/iptv6.m3u",
 "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u",
 "https://zbds.org/tv/iptv4.m3u",
-"https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u",
+
 "https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
 "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
 "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
@@ -28,7 +28,7 @@ source_urls = [
 "https://raw.githubusercontent.com/alantang1977/iptv-auto/refs/heads/main/my.txt",
 "https://raw.githubusercontent.com/ajqubbs/zhiboyuan/refs/heads/main/gatzb.txt",
 "https://gitee.com/alexkw/app/raw/master/kgk.txt",
-"https://d.kstore.dev/download/15114/HKTV.txt",
+
 "https://live.445569.xyz/live.m3u",
 "https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u",
 "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/swtvlive",
