@@ -77,7 +77,7 @@ source_urls = [
 "https://gongdian.top/tv/ku9/webview.txt#JS=https://gongdian.top/tv/ku9/js/webview.js",
 "https://wget.la/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u",
 "https://tvv.tw/github.com/alantang1977/X/raw/main/live/live_ipv4.m3u",
-    "",
+    "http://103.236.75.89:588/psy.m3u",
     "",
     "",
     "",
