@@ -83,7 +83,7 @@ source_urls = [
     "http://4gtv.158.qzz.io/4gtv.m3u",
     "https://raw.githubusercontent.com/iodata999/frxz751113-IPTVzb1/refs/heads/main/结果.m3u",
     "https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/网络收集.txt",
-    "",
+    "https://lytvs.top/py/custom_lives.m3u",
     "",
     "",
     "https://raw.githubusercontent.com/develop202/migu_video/main/interface.txt",
