@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 tvg-id="1" tvg-name="2026-09-29" tvg-logo="https://codeberg.org/alantang/photo/raw/branch/main/SuperMAN.png" group-title="更新日期",2026-09-29
+#EXTINF:-1 tvg-id="1" tvg-name="2026-10-01" tvg-logo="https://codeberg.org/alantang/photo/raw/branch/main/SuperMAN.png" group-title="更新日期",2026-10-01
 https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="广州综合" tvg-logo="./pic/logos广州综合.png" group-title="🍎┃广东频道",广州综合
 http://113.95.132.166:554/rtp/239.253.43.71:5146$IPV4•线路1
@@ -1610,7 +1610,7 @@ http://rihou.cc:555/tv/[Pd]凤凰中文$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰资讯" tvg-logo="./pic/logos凤凰资讯.png" group-title="🍓┃湾区频道",凤凰资讯
 http://rihou.cc:555/tv/[Pd]凤凰资讯$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="无线明珠" tvg-logo="./pic/logos无线明珠.png" group-title="🍓┃湾区频道",无线明珠
-http://iptv.4666888.xyz/iptv2A.php?id=29$IPV4
+http://rihou.cc:555/tv/[Pd]无线明珠$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="无线新闻台" tvg-logo="./pic/logos无线新闻台.png" group-title="🍓┃湾区频道",无线新闻台
 http://rihou.cc:555/tv/[Pd]无线新闻$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="有线新闻" tvg-logo="./pic/logos有线新闻.png" group-title="🍓┃湾区频道",有线新闻
@@ -1640,7 +1640,9 @@ rtmp://f13h.mine.nu/sat/tv331$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="东森电影" tvg-logo="./pic/logos东森电影.png" group-title="🍓┃湾区频道",东森电影
 https://live.metshop.top/huya/21059581$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="RTHK 31" tvg-logo="./pic/logosRTHK 31.png" group-title="🍓┃湾区频道",RTHK 31
-http://iptv.4666888.xyz/iptv2A.php?id=23$IPV4
+http://rihou.cc:555/tv/[Pd]RTHK-31$IPV4
+#EXTINF:-1 tvg-id="1" tvg-name="RTHK 32" tvg-logo="./pic/logosRTHK 32.png" group-title="🍓┃湾区频道",RTHK 32
+http://rihou.cc:555/tv/[Pd]RTHK-32$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="凤凰香港" tvg-logo="./pic/logos凤凰香港.png" group-title="🍓┃湾区频道",凤凰香港
 http://rihou.cc:555/tv/[Pd]凤凰香港$IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="香港卫视" tvg-logo="./pic/logos香港卫视.png" group-title="🍓┃湾区频道",香港卫视
